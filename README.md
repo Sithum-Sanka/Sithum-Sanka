@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sankasithum24" target="blank"><img src="https://img.shields.io/twitter/follow/sankasithum24?logo=twitter&style=for-the-badge" alt="sankasithum24" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, PHP, MySQL, React**
+- 🌱 I’m currently learning **JavaScript, PHP, MySQL, React,C#**
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, Java,C++**
 
 - 📫 How to reach me **sankasithum24@gmail.com**
 
